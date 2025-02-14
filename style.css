@@ -18,8 +18,8 @@
   
   .card {
     position: relative;
-    width: 400px;
-    height: 280px;
+    width: 370px;
+    height: 250px;
     border: 10px solid var(--border-color);
     margin: 200px auto;
     box-shadow: inset 10px 0px 15px 0px var(--shadow);
@@ -34,7 +34,7 @@
   
   .card .textContainer #header {
     font-size: 1.5rem;
-    margin: 30px auto;
+    margin: 20px auto;
   }
   
   .card p {
@@ -44,7 +44,7 @@
     color: var(--text);
     font-style: italic;
     text-align: center;
-    margin: 30px auto;
+    margin: 10px auto;
   }
   
   .card .front {
